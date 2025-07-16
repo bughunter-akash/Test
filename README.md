@@ -1,2 +1,2 @@
 # Test
-this is the first repository <br> Author - Akash
+this is the first repository <br> Author - Akash (bug-hunter)
